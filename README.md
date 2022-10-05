@@ -6,3 +6,8 @@ a melodic max for live sequencer that converts rgb values to midi
 - red values are mapped to pitch, green values mapped to velocity, and blue values mapped to sustain length
 - each layer (r, g, and b) can be independently transformed with [jit.rota](https://docs.cycling74.com/max8/refpages/jit.rota)
 - three different midi playheads can be sequenced, as can layer transformations
+
+
+
+https://user-images.githubusercontent.com/50525591/193979684-0fd0883d-1a47-4a1a-9667-4e8b32a04d49.mp4
+
